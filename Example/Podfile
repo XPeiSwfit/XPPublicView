@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XPPublicView_Example' do
+  pod 'XPPublicView', :path => '../'
+
+  target 'XPPublicView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
