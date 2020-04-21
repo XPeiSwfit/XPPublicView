@@ -1,0 +1,16 @@
+PODS:
+  - XPPublicView (0.1.0)
+
+DEPENDENCIES:
+  - XPPublicView (from `/Users/admin/moduleKit/XPPublicView/XPPublicView.podspec`)
+
+EXTERNAL SOURCES:
+  XPPublicView:
+    :path: "/Users/admin/moduleKit/XPPublicView/XPPublicView.podspec"
+
+SPEC CHECKSUMS:
+  XPPublicView: ee93c0f0cf80cbdc7938909e3079a67e53e19b92
+
+PODFILE CHECKSUM: 766c5fa2c98e2ac237f16f33fb0715cd1089ee6d
+
+COCOAPODS: 1.9.1

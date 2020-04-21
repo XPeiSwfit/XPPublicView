@@ -1,0 +1,6 @@
+framework module XPPublicView {
+  umbrella header "XPPublicView-umbrella.h"
+
+  export *
+  module * { export * }
+}

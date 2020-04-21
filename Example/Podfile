@@ -1,7 +1,11 @@
+
 use_frameworks!
 
+platform :ios, '10.0'
+
 target 'XPPublicView_Example' do
-  pod 'XPPublicView', :path => '../'
+  pod 'XPPublicView', :path => '/Users/admin/moduleKit/XPPublicView/XPPublicView.podspec'
+  
 
   target 'XPPublicView_Tests' do
     inherit! :search_paths
